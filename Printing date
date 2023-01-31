@@ -1,2 +1,3 @@
 echo `date`
 echo `pwd`
+echo `pwd`
